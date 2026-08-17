@@ -1,0 +1,10 @@
+Spectogram
+
+
+Hint:
+
+frequency na Spectogram than
+
+
+flag:
+  BREACH{Super_Secret_Messsage}
